@@ -34,6 +34,10 @@ header li a {
     text-transform: uppercase;
 }
 
+.top-banner{
+    position: relative;
+}
+
 .background-top-banner {
     display: flex;
     justify-content: center;
@@ -55,3 +59,48 @@ h2.text-banner {
     text-shadow: 0 0 20px rgba(48, 48, 48, 0.7);
     margin: 0;
 }
+
+/*Top Banner Outdoor unit style*/
+.outdoor-unit {
+    position: absolute;
+    left: -135px;
+    bottom: 70px;
+    transform: rotate(-90deg);
+}
+
+.icon-angle-circled-left {
+    font-size: 20px;
+    margin-right: 9px;
+}
+
+.outdoor-span{
+    color: #000000;
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 100px;
+    text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
