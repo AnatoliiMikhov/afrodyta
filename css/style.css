@@ -34,7 +34,11 @@ header li a {
     text-transform: uppercase;
 }
 
-.top-banner{
+.top-banner {
+    margin-bottom: 105px;
+}
+
+.top-banner-block {
     position: relative;
 }
 
@@ -81,6 +85,37 @@ h2.text-banner {
     line-height: 100px;
     text-transform: uppercase;
 }
+
+
+/*Style for block2 block*/
+.block2 {
+    height: 260px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.block2-left h2 {
+    color: #000000;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 70px;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+.block2-left p {
+    height: 45px;
+    color: #000000;
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+
+
+
+
 
 
 
